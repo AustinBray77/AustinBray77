@@ -6,7 +6,15 @@
 	been programming since about the age of 12, but only really started to get
 	into it when I learned C# and Unity in late 2019. I program for recreation but
 	also competitively with C++. I have received distinction in the 2020 and 2021
-	Canadian Computing Competition ran by the University of Waterloo.
+	Canadian Computing Competition ran by the University of Waterloo. Although I
+	do well, I enjoy project building more than the algorithm solving which
+	competitive programming demands. I currently have one app available
+	<a
+		href="https://play.google.com/store/apps/details?id=com.SixBeachesGaming.BlockSnake2D"
+		>here</a
+	>
+	on the google play store with more to come. I also have my react website
+	hosted <a href="https://austinbray77.github.io/">here</a> on github.
 </p>
 
 <h2>My Experience:</h2>
