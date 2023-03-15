@@ -1,12 +1,12 @@
 <h1>👋 Hi, I’m Austin</h1>
 <h2>About Me:</h2>
 <p>
-	I am a 17 year old developer from Toronto, Ontario, Canada. I am currently
+	I am a 18 year old developer from Toronto, Ontario, Canada. I am currently
 	entering my senior year at Danforth Collegiate and Technical Institute. I have
 	been programming since about the age of 12, but only really started to get
 	into it when I learned C# and Unity in late 2019. I program for recreation but
-	also competitively with C++. I have received distinction in the 2020 and 2021
-	Canadian Computing Competition ran by the University of Waterloo. Although I
+	also competitively with C++. I have received distinction in the 2020, 2021, and 2022
+	Canadian Computing Competitions ran by the University of Waterloo. Although I
 	do well, I enjoy project building more than the algorithm solving which
 	competitive programming demands. I currently have one app available
 	<a
