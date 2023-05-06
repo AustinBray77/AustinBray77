@@ -18,7 +18,7 @@
 </p>
 
 <h2> My Stats </h2>
-![](https://github-readme-stats.vercel.app/api?username=AustinBray77)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinBray77)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>My Experience:</h2>
 <h4>Languages:</h4>
