@@ -19,6 +19,7 @@
 
 <h2> My Stats </h2>
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinBray77&show_icons=true&theme=transparent&hide_border=true)
+![Langauge Use](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinBray77&theme=transparent&hide_border=true)
 
 <h2>My Experience:</h2>
 <h4>Languages:</h4>
