@@ -17,6 +17,9 @@
 	hosted <a href="https://austinbray77.github.io/">here</a> on github.
 </p>
 
+<h2> My Stats </h2>
+[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinbray77)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>My Experience:</h2>
 <h4>Languages:</h4>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
