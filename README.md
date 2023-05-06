@@ -103,4 +103,4 @@
 
 <h3>Epic Counter</h3>
 
-![](https://komarev.com/ghpvc/?username=AustinBray77)
+![Visitor Badge](https://komarev.com/ghpvc/?username=AustinBray77)
