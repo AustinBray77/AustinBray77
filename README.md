@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Austin</h1>
 <h2>About Me:</h2>
 <p>
-	I am a 18 year old developer from Toronto, Ontario, Canada. I am currently
+	I am a 19 year old developer from Toronto, Ontario, Canada. I am currently
 	entering my first year in the Computer Science program at McMaster University. I have
 	been programming since about the age of 12, but only really started to get
 	into it when I learned C# and Unity in late 2019. I program for recreation but
