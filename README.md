@@ -8,13 +8,8 @@
 	also competitively with C++. I have received distinction in the 2020, 2021, and 2022
 	Canadian Computing Competitions ran by the University of Waterloo. Although I
 	do well, I enjoy project building more than the algorithm solving which
-	competitive programming demands. I currently have one app available
-	<a
-		href="https://play.google.com/store/apps/details?id=com.SixBeachesGaming.BlockSnake2D"
-		>here</a
-	>
-	on the google play store with more to come. I also have my react website
-	hosted <a href="https://austinbray77.github.io/">here</a> on github.
+	competitive programming demands. I also have my react website
+	hosted <a href="https://austinbray.com/">here</a> on AWS.
 </p>
 
 <h2> My Stats </h2>
