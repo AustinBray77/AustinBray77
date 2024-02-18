@@ -2,10 +2,11 @@
 <h2>About Me:</h2>
 <p>
 	I am a 19 year old developer from Toronto, Ontario, Canada. I am currently
-	entering my first year in the Computer Science program at McMaster University. I have
+	in my first year of the Computer Science program at McMaster University. I have
 	been programming since about the age of 12, but only really started to get
-	into it when I learned C# and Unity in late 2019. I program for recreation but
-	also competitively with C++. I have received distinction in the 2020, 2021, and 2022
+	into it when I learned C# and Unity in late 2019. I have competed in many types of 
+	development competitions and hackathons such as Deltahacks X and the GDSC. 
+	I have received distinction in the 2020, 2021, and 2022
 	Canadian Computing Competitions ran by the University of Waterloo. Although I
 	do well, I enjoy project building more than the algorithm solving which
 	competitive programming demands. I also have my react website
