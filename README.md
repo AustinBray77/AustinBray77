@@ -91,13 +91,5 @@
 		style="height: 75px; width: auto"
 	/>
 </a>
-<a href="https://dmoj.ca/user/AustinBray05">
-	<img
-		src="https://avatars.githubusercontent.com/u/6934864?s=200&v=4"
-		style="height: 75px; width: auto"
-	/>
-</a>
-
-<h3>Epic Counter</h3>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=AustinBray77)
