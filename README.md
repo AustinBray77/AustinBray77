@@ -7,9 +7,7 @@
 	into it when I learned C# and Unity in late 2019. I have competed in many types of 
 	development competitions and hackathons such as Deltahacks X and the GDSC. 
 	I have received distinction in the 2020, 2021, and 2022
-	Canadian Computing Competitions ran by the University of Waterloo. Although I
-	do well, I enjoy project building more than the algorithm solving which
-	competitive programming demands. I also have my react website
+	Canadian Computing Competitions ran by the University of Waterloo. I also enjoy building projects for myself and others and have gained most of my programming experience this way. You can visit my website
 	hosted <a href="https://austinbray.com/">here</a> on AWS.
 </p>
 
