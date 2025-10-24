@@ -3,7 +3,7 @@
 <ul>
 	<li>20 Year old Software Engineer from Toronto🍁</li>
 	<li>Interned at: Google, CIBC, Tumblewire Inc.</li>
-	<li>3rd Year CS at McMaster Univeristy 🏭</li>
+	<li>3rd Year CS at McMaster Univeristy 👨‍💻</li>
 	<li>I mainly use Rust 🦀 and TypeScript ⚛️ but try to learn new things every once in a while</li>
 	<li>Currenlty Working On:
 	<ul>
