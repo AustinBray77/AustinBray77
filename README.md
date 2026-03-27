@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Austin</h1>
 <h2>About Me:</h2>
 <ul>
-	<li>20 Year old Software Engineer from Toronto🍁</li>
+	<li>21 Year old Software Engineer from Toronto🍁</li>
 	<li>Interned at: Google, CIBC, Tumblewire Inc.</li>
 	<li>3rd Year CS at McMaster Univeristy 👨‍💻</li>
 	<li>I mainly use Rust 🦀 and TypeScript ⚛️ but try to learn new things every once in a while</li>
