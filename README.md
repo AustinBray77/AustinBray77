@@ -3,7 +3,7 @@
 <ul>
 	<li>21 Year old Software Engineer from Toronto</li>
 	<li>Interned at: Google (Summer 2026 and 2025), CIBC (Summer 2024), Tumblewire Inc.</li>
-	<li>3rd Year CS at McMaster Univeristy</li>
+	<li>4th Year CS at McMaster University (Graduating 2027)</li>
 	<li>I learn by building random passion projects</li>
 	<li>I mostly focus on backend and full-stack development through the following languages:
 	<ul> 
@@ -14,9 +14,9 @@
 	</li> 
 	<li>Currenlty Working On:
 	<ul>
-		<li>Building a TUI version of RSD-Viewer for better cross platform support.</li>
-		<li>Building a Python interpreter in Rust.</li>
-		<li>Training a stock market forcasting neural network for my machine learning class.</li>
+		<li>SVGS: Small Group Video Share, as a Capstone Project</li>
+		<li>Small Rust projects.</li>
+		<li>School 😃</li>
 	</ul>
 	</li>
 	<li>My website: <a href="https://austinbray.com/">austinbray.com</a></li>
