@@ -14,7 +14,7 @@
 	</li> 
 	<li>Currenlty Working On:
 	<ul>
-		<li>SVGS: Small Group Video Share, as a Capstone Project</li>
+		<li>SGVS: Small Group Video Share, as a Capstone Project</li>
 		<li>Small Rust projects.</li>
 		<li>School 😃</li>
 	</ul>
